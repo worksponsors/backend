@@ -1,0 +1,6 @@
+# Configuration file for GitHub Pages
+
+# Enable CORS
+CORS:
+  origins: "*"
+  methods: "GET, POST, PUT, DELETE, OPTIONS"
